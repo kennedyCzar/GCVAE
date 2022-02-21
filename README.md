@@ -1,2 +1,2 @@
 # GCVAE
-Generalized-Controllable Variational Autoencoder (GCVAE)
+GCVAE: Generalized-Controllable Variational Autoencoder
