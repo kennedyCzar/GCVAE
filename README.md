@@ -11,5 +11,5 @@ to handle this challenge under the constrained optimization framework and show t
 it outperforms state-of-the-art existing models for disentanglement while balancing 
 reconstruction. We prove that maximizing the information in the generative network is 
 equivalent to information maximization during amortized inference underreasonable 
-assumptions and constraint relaxation
+assumptions and constraint relaxation.
 ```
