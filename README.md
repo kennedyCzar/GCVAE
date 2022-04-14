@@ -13,3 +13,4 @@ reconstruction. We prove that maximizing the information in the generative netwo
 equivalent to information maximization during amortized inference underreasonable 
 assumptions and constraint relaxation.
 ```
+---------------------
