@@ -15,6 +15,19 @@ maximization during amortized inference under reasonable assumptions and constra
 
 ### How to use
 
+-----------------------------------
+### Cite
+
 ```
-                              
+@misc{https://doi.org/10.48550/arxiv.2206.04225,
+  doi = {10.48550/ARXIV.2206.04225},
+  url = {https://arxiv.org/abs/2206.04225},
+  author = {Ezukwoke, Kenneth and Hoayek, Anis and Batton-Hubert, Mireille and Boucher, Xavier},
+  keywords = {Machine Learning (stat.ML), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences, 62F15, 62F30},
+  title = {GCVAE: Generalized-Controllable Variational AutoEncoder},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+                        
 ```
