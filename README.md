@@ -15,6 +15,19 @@ maximization during amortized inference under reasonable assumptions and constra
 
 ### How to use
 
+[1] Download all the files to your local machine using
+```python
+git clone https://github.com/kennedyCzar/GCVAE
+```
+
+[2] Depending on the experiment of interest, load the appropriate script in a python IDE of choice. For MNITS load,
+```python
+load main_mnist_2d.py
+```
+[3] Set parameters ad run (The current parameters are optmimal for experiment)
+```python
+python main_mnist_2d.py
+```
 -----------------------------------
 ### Cite
 
