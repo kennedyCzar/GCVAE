@@ -24,7 +24,7 @@ git clone https://github.com/kennedyCzar/GCVAE
 ```python
 load main_mnist_2d.py
 ```
-[3] Set parameters ad run (The current parameters are optmimal for experiment)
+[3] Set parameters ad run (The current parameters are optimal for experiment)
 ```python
 python main_mnist_2d.py
 ```
