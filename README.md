@@ -147,3 +147,6 @@ model = gcvae(inp_shape = inp_shape,
 }
                         
 ```
+
+### License
+MIT
