@@ -106,7 +106,7 @@ lr = 1e-3
 epochs = 250000
 hidden_dim = 200
 latent_dims = 2
-loss_type = list(params.keys())[loss_index] #elbo -> 0; controlvae -> 1; infovae -> 2; gcvae -> 3
+loss_type = list(params.keys())[loss_index] #elbo -> 0; beta-vae --> 1; controlvae -> 2; infovae -> 3; gcvae -> 4
 archi_type = 'v2'
 #params
 distrib_type = 'b'
