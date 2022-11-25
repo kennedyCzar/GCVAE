@@ -1,4 +1,5 @@
 ## GCVAE: Generalized-Controllable Variational Autoencoder
+<img src = 'https://github.com/kennedyCzar/GCVAE/blob/main/IMG/gcvae_2.png'/>
 
 ### ABSTRACT: 
 ```
@@ -131,6 +132,15 @@ model = gcvae(inp_shape = inp_shape,
                                             save_model = save_model_arg,
                                             save_model_iter = save_model_after)
 ```
+
+### Results
+
+MNIST
+<img src = 'https://github.com/kennedyCzar/GCVAE/blob/main/IMG/reconstruction_2_500.png' />
+DSprites
+<img src = 'https://github.com/kennedyCzar/GCVAE/blob/main/IMG/dsprite_reconstruction_2.png' />
+3D Shapes (Greyscale)
+<img src = 'https://github.com/kennedyCzar/GCVAE/blob/main/IMG/3dshapes.png' />
 -----------------------------------
 ### Cite
 
