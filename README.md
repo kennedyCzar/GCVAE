@@ -19,7 +19,7 @@ amortized inference under reasonable assumptions and constraint relaxation.
 ### How to use
 
 [1] Download all the files to your local machine using
-```python
+```
 git clone https://github.com/kennedyCzar/GCVAE
 ```
 
